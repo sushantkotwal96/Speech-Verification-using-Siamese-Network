@@ -1,4 +1,4 @@
-# Speaker Verification using Siamese Networks
+# Speech Verification using Siamese Networks
 
 This project presents an innovative approach to speaker verification utilizing Siamese Networks, a powerful architecture within the realm of deep learning. The system is designed to determine whether two given speech utterances originate from the same speaker or not, a critical task with applications spanning security systems, personalization features, and beyond.
 
